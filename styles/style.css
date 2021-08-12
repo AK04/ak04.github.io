@@ -1,0 +1,21 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/arsenale_white.ttf);
+}
+
+body {
+    font-family: myFirstFont;
+    padding: 5% 10%;
+}
+
+#name {
+    font-size: 200px;
+    margin: 0%;
+    line-height: 1.1;
+}
+
+#nav {
+    padding: 0% 5%;
+    font-size: 50px;
+    line-height: .5;
+}
